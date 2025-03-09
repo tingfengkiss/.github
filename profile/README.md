@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+欢迎欢迎，你终于来了🥰🥰
+没错，这是一个由我主创的项目，之所以以组织的形式展示出来是因为这些仓库都有一定的关联性，这样方便后续的管理与分配
+这个项目会涉及到很多图像创意，例如类似于Adobe的Animate(也就是以前的flash)，一些特效软件等
+这个项目还在筹划阶段，有关的Pages正在配置中
